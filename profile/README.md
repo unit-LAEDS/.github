@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+A liga acadêmica de Engenharia e Desenvolvimento de Software (LAEDS), voltada para os membros do curso de ciência da computação tem como principal modus operanti, o foco e a comunicação, visando o crescimento e evolução profissional e acadêmica no ramo de desenvolvimento e manutenção de software.
+
 <!--
 
 **Here are some ideas to get you started:**
